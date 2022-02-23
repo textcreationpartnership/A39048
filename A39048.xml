@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The execution of two persons at Tyburn for the murdering of Sir Edmund-bury Godfrey one of his Majesties Justices of the Peace for the county of Middlesex late of St. Martins in the Fields. viz, Robert Green and Lawrence Hill, who were executed on Fryday the 21th of this instant Frebruary [sic], 1678/9. with an account of their deportment at the place of execution, and several other remarkable circumstances. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39048</idno>
+            <idno type="STC">Wing E3855B</idno>
+            <idno type="STC">ESTC R219774</idno>
+            <idno type="EEBO-CITATION">99831222</idno>
+            <idno type="PROQUEST">99831222</idno>
+            <idno type="VID">35685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The execution of two persons at Tyburn for the murdering of Sir Edmund-bury Godfrey one of his Majesties Justices of the Peace for the county of Middlesex late of St. Martins in the Fields. viz, Robert Green and Lawrence Hill, who were executed on Fryday the 21th of this instant Frebruary [sic], 1678/9. with an account of their deportment at the place of execution, and several other remarkable circumstances. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3: The execution of the prisoners who suffered at Tyburn on Fryday the 21th day of February.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Green, Robert, d. 1679 --  Early works to 1800.</term>
+               <term>Hill, Lawrence, d. 1679 --  Early works to 1800.</term>
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678 --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35685:1" rendition="simple:additions"/>
+            <p>THE EXECUTION OF TWO PERSONS AT TYBURN For the murdering of Sir <hi>Edmund-bury Godfrey</hi> one of his Majeſties Juſtices of the Peace for the County of <hi>Middleſex,</hi> late of St. <hi>Martins</hi> in the Fields.</p>
+            <p>
+               <hi>VIZ, Robert Green</hi> and <hi>Lawrence Hill,</hi> Who were executed on <hi>Fryday</hi> the <hi>21th</hi> of this Inſtant <hi>Frebruary,</hi> 1678/9. with an Account of their Deport<g ref="char:EOLhyphen"/>ment at the place of Execution, and ſeveral other remarkable Circumſtances.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>With Allowance.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D.M.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35685:2"/>
+            <pb n="3" facs="tcp:35685:2"/>
+            <head>The Execution of the Priſoners who ſuffered at <hi>Tyburn</hi> on <hi>Fry<g ref="char:EOLhyphen"/>day</hi> the <hi>21th</hi> day of <hi>February.</hi>
+            </head>
+            <p>WITH what horror and Amaze<g ref="char:EOLhyphen"/>ment, muſt a ſerious thought be Startled; when it reflects upon the hainous Crimes Commited, by the Villains of our Age: whoſe Cruelties are as Boundleſs as the Infernal Manſions from whence they firſt aſſumed their Beings: no mo<g ref="char:EOLhyphen"/>dern Times have known ſuch groſs Impieties as theſe, which have ſo lately been tranſacted in our Land, all dyed in Crimſon Shapes, who gap<g ref="char:EOLhyphen"/>ed with thirſt of ſlaughter to deſtroy the inno<g ref="char:EOLhyphen"/>cent, and with dire Maſſacres unhinge the ſet<g ref="char:EOLhyphen"/>tled State, depoſe if poſſible the long continued peace our quiet Realm injoys, lay Crowns and Scepters in the duſt, and trample upon Majeſty. Monſters in the ſhapes of men, who dare to arro<g ref="char:EOLhyphen"/>gate ſuch thoughts as theſe, or ponder with themſelves upon the fatal Ills; but juſt is the righteous God in all his works and wonders, and in the midſt of darkneſs can reveal what ſe<g ref="char:EOLhyphen"/>cret Plots are lodg'd: no cunning contrivances, nor crafty Snares, eſcape his narrow ſearching
+<pb n="4" facs="tcp:35685:3"/>Eyes: but Murder is a Crime whoſe rending voice doth uſher vengeance down, and lets in horror to the guilty ſoul; all hopes of quiet va<g ref="char:EOLhyphen"/>niſh from the loaded thoughts that toil beneath the mighty weight of that oppreſſing ſin, they loſe themſelves as in a pathleſs maze, and know not where to turn, on one hand fear, on th'other danger lies in ambuſcade to trap their ſilent ſteps, who trace like wondering Ghoſts the unfrequent<g ref="char:EOLhyphen"/>ed ways, and dread the ſhadows of approoching harm; then ſure it muſt be miſerable to thoſe wretched Miſcreants who were themſelves the Authors of ſuch attending woes, and heaped upon their Heads the dreadful ſtorms of an of<g ref="char:EOLhyphen"/>fended power, the juſt deſert of what themſelves have done. But among all the Cruelties that wicked men could put in Execution, or all the Sicophants of Hell could plung their thoughts in, or cruel Papiſts, and moſt bloody men, could invent, this, the Narration of which I am pur<g ref="char:EOLhyphen"/>poſed to relate (for which two of the barbarous Actors moſt deſervedly have ſuffered) may equal ſure, if not exceed.—And thus I ſhall explain it. The parties that ſuffered were <hi>Hill</hi> and <hi>Green,</hi> who upon his Majeſties Proclamation were diſ<g ref="char:EOLhyphen"/>covered, and apprehended, and Committed to <hi>New-gate,</hi> as Perſons acceſſary to the inhumane Murder of that truly Loyal and worthy Gentle<g ref="char:EOLhyphen"/>man Sir <hi>Edmund-Bury Godfrey,</hi> one of his Ma<g ref="char:EOLhyphen"/>jeſties Juſtices of the Peace, for the County of <hi>Middleſex,</hi> late of St. <hi>Martins</hi> in the Fields; a
+<pb n="5" facs="tcp:35685:3"/>man ſo generally beloved, and of ſo ſound a Judgment in State Affairs, and for the promot<g ref="char:EOLhyphen"/>ing the good of all Civil people, and depreſſing thoſe by his Authority who ſought to diſturb the publick quiet, and raiſe Commotions in the Land: but for this he was looked upon with envious eyes, and fell a Sacrifice to Popiſh rage, for which the Parties aforeſaid were Arraigned at the <hi>Kings-Bench-Bar,</hi> in <hi>Weſtminſter-Hall,</hi> on <hi>Monday</hi> the 10th of this inſtant <hi>February,</hi> where about nine or ten of the Clock the Jury being pannelled, the Priſoners were brought, where it was proved againſt them by very credible Wit<g ref="char:EOLhyphen"/>neſſes, that they were actually concerned in Strangling the ſaid Sir <hi>Edmund</hi> with a Hanker<g ref="char:EOLhyphen"/>chief, and dragging him into a ſecret place to conceal the barbarous Crime, with many other Circumſtances too tedious here to recite, for which they were found guilty, and the next day being <hi>Tueſday,</hi> the 11th of the ſame inſtant, Re<g ref="char:EOLhyphen"/>ceived ſentence to return to the place from whence they were brought, and from thence to the common place of Execution; and there to be ſtrangled till their bodies were dead: the which on this <hi>21th</hi> of <hi>February</hi> was put in Executi<g ref="char:EOLhyphen"/>on. In the Morning they were brought down Stairs, where the Cart and Sheriff's men wait<g ref="char:EOLhyphen"/>ing for them: and an innumerable Crowd of Spectators, who lined the ways, and thronged from every quarter filled the Lanes and Streets, to ſee thoſe miſcreants of whom they heard ſo much,
+<pb n="6" facs="tcp:35685:4"/>the Windows likewiſe twinckled with eyes of gazing mortals, who ſent forth ſhouts, as pleaſed with what repaying Juſtice had ſo juſtly doomed, whilſt the dejected pecants paſſed by, perhaps more concious of their Crimes than heretofore, for death that ghaſtly King of terrors, when as he makes his near approach looks dreadful, and a<g ref="char:EOLhyphen"/>mazes thoſe who bold in Sin ne're feard his diſtant frowns: but did ſuppoſe them only ſounds to rouze the drowſie Soul from its ſecu<g ref="char:EOLhyphen"/>rer ſlumbers. And ſo indeed it is, to make men ſerious, and incite them to beware of ills that taint the faculties, and poyſon the depraved ſoul with baſe-bred inclinations, eſpecially that of murder, cruel murder; that bloody Crime, ſo hereditary to all the Popiſh Faction, whoſe eyes delight in blood and humane Sacrifice: nay the very foundation of their pretended faith, by Cru<g ref="char:EOLhyphen"/>el <hi>Jeſuits</hi> compiled, is in obedience to perform the moſt deſperate Villanies (if ſo commanded) for the propagation of the <hi>Romiſh</hi> Cauſe; that the baleful accidents of time from their moſt ſullen natures can give ſcope unto, or witty hor<g ref="char:EOLhyphen"/>ror dares invent, as may be evident in this, when they had barbarouſly miſuſed and murdered this worthy Gentleman, to hide the Guilt and avoid the Suſpition, they carryed the murdered Corps by Night unto a remote and pathleſs way, not taking any thing from him, (but thruſting a Sword through as it is conjectured before murder<g ref="char:EOLhyphen"/>ed Corps) his Gloves and Cane were decently
+<pb n="7" facs="tcp:35685:4"/>in order layed. But to the purpoſe from which I too long have ſwerved: they came thus guarded and attended to the place of Execution: to re<g ref="char:EOLhyphen"/>ceive the reward of thoſe black Crimes their fatal hands had done; for which their forfeited Lives muſt make an expiation to offended Ju<g ref="char:EOLhyphen"/>ſtice, who is not ſatisfied till Blood for Blood be paid, eſpecially that Blood that has moſt wrong<g ref="char:EOLhyphen"/>fully been ſhead.</p>
+            <p>They were drawn in a Cart with dark colour<g ref="char:EOLhyphen"/>ed Horſes, and guarded by a number of Conſta<g ref="char:EOLhyphen"/>bles and Watchmen. <hi>Green</hi> was very much in years, ſuppoſed to be ſixty or upwards, and <hi>Hill</hi> not ſuppoſed to be above forty: They were at<g ref="char:EOLhyphen"/>tired in Campain Coats, with black Hats and coloured Hatbands, and white Gloves. <hi>Hill</hi> ha<g ref="char:EOLhyphen"/>ving a large Book in his hand: They ſeemed to be very penitent, often lifting up their hands and Eyes, with often repeated Ejaculations, the which drew charitable thoughts from the behol<g ref="char:EOLhyphen"/>ders. Thus they continued, till they came to the appointed place of Execution, where they ſaid little or nothing to the purpoſe; but much bewailed their unfortunate ends, and that they hoped to find mercy at the Tribunal Seat of their great Creator, before whom but a few moments divided their appearances; asking pardon of all men for the injuries by them committed againſt them: And then the Executioner did his Office. They were afterwards brought back, and bu<g ref="char:EOLhyphen"/>ried.</p>
+            <pb n="8" facs="tcp:35685:5"/>
+            <p>And now one would think the miſerable End of thoſe wretched men, ſo deſervedly ſuffering for their notorious Facts, ſhould remain as the Tro<g ref="char:EOLhyphen"/>phies of offended Juſtice; and be as a warning to all thoſe Bloody minded men, whoſe ſtifled Ma<g ref="char:EOLhyphen"/>lice ſwelled with tides of miſchief, ſtruggles to get vent: but the Almighty, whoſe Omnipo<g ref="char:EOLhyphen"/>tence can pound them into duſt, and tumble down their lofty thoughts, that Weave among the Clouds: he only 'tis that can preſerve us from their cruel rage, and turn their Fury back, deſtroy their ſecret Plots, and ſave his people from the mouth of ſlaughter, whoſe providence is all-ſufficient, and whoſe goodneſs never fails thoſe who for their ſafety truſt in him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
